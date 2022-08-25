@@ -67,17 +67,19 @@
 }
 
 .elementor-5 .elementor-element.elementor-element-11652f0:not( .elementor-widget-image) .elementor-widget-container {
-    -webkit-mask-image: url(../images/number1.png );
+    -webkit-mask-image: url(../images/number1.png);
     -webkit-mask-size: contain;
     -webkit-mask-position: center center;
     -webkit-mask-repeat: no-repeat;
+    mask-image: url(../images/number1.png);
 }
 
 .elementor-5 .elementor-element.elementor-element-11652f0.elementor-widget-image .elementor-widget-container img {
-    -webkit-mask-image: url(../images/number1.png );
+    -webkit-mask-image: url(../images/number1.png);
     -webkit-mask-size: contain;
     -webkit-mask-position: center center;
     -webkit-mask-repeat: no-repeat;
+    mask-image: url(../images/number1.png);
 }
 
 .elementor-5 .elementor-element.elementor-element-83508af>.elementor-element-populated {
